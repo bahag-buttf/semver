@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/bahag-buttf/semver/compare/v1.1.1...v1.2.0) (2025-04-09)
+
+
+### Features
+
+* some new feature ([f3f4467](https://github.com/bahag-buttf/semver/commit/f3f4467103cc090cde81797b79b9d08b256b5deb))
+
 ## [1.1.1](https://github.com/bahag-buttf/semver/compare/v1.1.0...v1.1.1) (2025-04-09)
 
 
